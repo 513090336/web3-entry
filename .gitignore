@@ -1,0 +1,5 @@
+.idea/
+*/__pychache__
+connection/__pycache__/
+lib/__pycache__/
+webapp/__pycache__/
