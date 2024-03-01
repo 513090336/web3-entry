@@ -3,3 +3,5 @@
 connection/__pycache__/
 lib/__pycache__/
 webapp/__pycache__/
+dist/
+
